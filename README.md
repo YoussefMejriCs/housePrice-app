@@ -31,6 +31,7 @@ Performance: The model captures the general trend that higher income and newer h
 4. Visuals
 
 Below is the plot of my model's predictions versus the actual prices. The red dashed line represents a perfect prediction. The closer the blue dots are to the red line, the better the model.
+<img width="1000" height="600" alt="prediction_results" src="https://github.com/user-attachments/assets/d13945c3-08e8-4d99-a0fd-01e881ece381" />
 
 How to Run
 
